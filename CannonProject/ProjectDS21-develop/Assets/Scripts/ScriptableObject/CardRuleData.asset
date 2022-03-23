@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a45828a5d566494f80f9b686bda6296, type: 3}
+  m_Name: CardRuleData
+  m_EditorClassIdentifier: 
+  noColor: {r: 0, g: 0, b: 0, a: 0}
+  totalTxtColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  backSprite: {fileID: 21300000, guid: 73bd2976dac88bc4f8453437c8067441, type: 3}
+  mixX:
+  - -8
+  - 8
+  mixY: 8.5
+  cardScale: {x: 0.1, y: 0.1, z: 1}
+  trashCardScale: {x: 0.08, y: 0.08, z: 1}
+  jqkSpr:
+  - {fileID: 21300000, guid: c3dfdfa68ad815248b41951aa2e5e026, type: 3}
+  - {fileID: 21300000, guid: 73e22b30850eadb44a85c0c7d4689784, type: 3}
+  - {fileID: 21300000, guid: e1905559947a30645a2cdcebe8148915, type: 3}
+  drawSilver: 20
+  resapwnSilver: 100

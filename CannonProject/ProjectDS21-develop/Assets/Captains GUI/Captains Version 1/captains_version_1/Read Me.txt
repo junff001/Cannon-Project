@@ -1,0 +1,16 @@
+
+Programs required to successfully use/edit this product - Photoshop.
+------------------------------------------------------------------
+
+Just a set of UI Elements for a trading/economy/rpg game with a renaissance theme.
+
+All elements are sliced png files from the PSD files I have provided.
+This is only a skin, so the coding needs to be on your side.
+
+I have sliced the elements, but if you find something inproperly sliced,
+please feel free to use the PSD files.
+
+This UI contains not only the user interface, but also a Splash Screen and
+a Loading Bar.
+
+You can arrange the scenery in the Splash screen however you like.
